@@ -1,5 +1,7 @@
 basicsr>=1.4.2
 facexlib>=0.2.5
+gradio
+realesrgan
 lmdb
 numpy
 opencv-python
